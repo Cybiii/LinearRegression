@@ -1,7 +1,7 @@
 import pandas as pd
 import matplotlib.pyplot as plt
 
-xandys = pd.read_csv("dataLS.csv")
+xandys = pd.read_csv("data.csv")
 
 m = 0
 b = 20000
